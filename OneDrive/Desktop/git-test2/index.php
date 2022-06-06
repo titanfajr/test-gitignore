@@ -7,6 +7,7 @@
     <title>git remote</title>
 </head>
 <body>
-    
+    <h1>Hello world</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi cumque vero, ipsa nesciunt aut suscipit doloribus consectetur et aliquid alias neque magnam facilis distinctio quam aliquam dolores? Optio, accusamus tempora.</p>
 </body>
 </html>
